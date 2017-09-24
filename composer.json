@@ -1,0 +1,12 @@
+{
+    "name": "hanwenbo/imbridge",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hanwenbo",
+            "email": "9476400@qq.com"
+        }
+    ],
+    "require": {}
+}
